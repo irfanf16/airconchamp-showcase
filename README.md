@@ -22,12 +22,6 @@ Full-stack engineer
 **API-ready.** Sanctum token auth in place for mobile technician clients.
 
 
-## Screenshots
-
-<!-- ![Booking Flow](docs/booking-flow.png) -->
-<!-- ![Technician Dashboard](docs/technician-dashboard.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
