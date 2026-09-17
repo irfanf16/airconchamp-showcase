@@ -7,7 +7,7 @@ Booking and job management for air-conditioning maintenance, with customer, tech
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Full-stack engineer — role/permission architecture, booking flow and admin reporting.
+Full-stack engineer
 
 ## Engineering highlights
 
